@@ -1,3 +1,5 @@
+#Collins Wanga
+
 numClass = eval(input('\nEnter number of classes taken:  '))
 overGrade=0
 course_dict={'Course':'Grade'}
